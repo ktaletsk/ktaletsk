@@ -2,7 +2,6 @@
 
 # Konstantin Taletskiy, Data Engineer | Jupyter Developer
 
-## 😄 Pronouns: He/Him/His
 ## 🌟 Projects
 
 ### Contributor and maintainer to Jupyter
@@ -23,7 +22,3 @@
 
 ## 🐈‍⬛ Fun GitHub stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktaletsk&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## 💬 Come chat with me during my weekly Office Hours
-- Ask me anything about Python programming, JupyterLab, JupyterHub, Docker or transition from Academia to IT Industry
-- Every Monday and Friday: [15 minute](https://calendly.com/ktaletsk/15min) and [30 minute](https://calendly.com/ktaletsk/30-minute-meeting) time slots
