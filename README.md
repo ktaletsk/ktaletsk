@@ -11,7 +11,7 @@
 
 ### Maintainer of the Axle Informatics/NCATS cloud JupyterHub deployment
 
-[![notebooks-deploy](https://github-readme-stats.vercel.app/api/pin/?username=LabShare&repo=notebooks-deploy&theme=dark&show_owner=true)](https://github.com/LabShare/notebooks-deploy)
+[![notebooks-deploy (archived)](https://github-readme-stats.vercel.app/api/pin/?username=LabShare&repo=notebooks-deploy&theme=dark&show_owner=true)](https://github.com/LabShare/notebooks-deploy)
 [![jupyterlab-extensions](https://github-readme-stats.vercel.app/api/pin/?username=LabShare&repo=jupyterlab-extensions&theme=dark&show_owner=true)](https://github.com/LabShare/jupyterlab-extensions)
 
 
