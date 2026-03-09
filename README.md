@@ -17,9 +17,11 @@
 
 ### Jupyter Ecosystem
 - 🛒 **[labextensions.dev](https://labextensions.dev)** ([source](https://github.com/orbrx/jupyter-marketplace)) - JupyterLab extension marketplace surfacing downloads, stars, and categories
+- 🧩 **[pywidget](https://github.com/ktaletsk/pywidget)** - Notebook widgets in pure Python
 - 📊 **[Auto Dashboards](https://github.com/orbrx/auto-dashboards)** - Generate Streamlit dashboards from Jupyter notebooks with live preview
 - 🐊 **[gator](https://github.com/mamba-org/gator)** - Conda/Mamba package manager for JupyterLab (maintainer)
 - 📁 **[jupyter-fsspec](https://github.com/fsspec/jupyter-fsspec)** - Universal filesystem access for Jupyter
+- 📓 **[jupyterlab-marimo](https://github.com/ktaletsk/jupyterlab-marimo)** - Open marimo notebooks in an embedded marimo editor inside JupyterLab
 - 📝 **[jupyterlab-latex](https://github.com/jupyterlab/jupyterlab-latex)** - Live editing of LaTeX documents in JupyterLab (maintainer)
 - 🚀 **[try-labextensions](https://github.com/orbrx/try-labextensions)** - Test any JupyterLab extension instantly in GitHub Codespaces
 - 📅 **[yason](https://github.com/ktaletsk/yason)** - Jupyter Notebook Remote Scheduler for Argo on Kubernetes
@@ -29,7 +31,8 @@
 - 🗣️ **[claude-code-tts](https://github.com/ktaletsk/claude-code-tts)** - Voice for Claude Code with CarPlay-style audio ducking
 - 🎓 **[learn-codebase](https://github.com/ktaletsk/learn-codebase)** - Anti-vibe-coding skill: Socratic tutor that teaches codebases through questioning
 - 🤖 **[jupyter-ai-personas](https://github.com/ktaletsk/jupyter-ai-personas)** - Custom AI Personas for Jupyter AI
-- 🔍 **[multi-agent-code-review-skill](https://github.com/ktaletsk/multi-agent-code-review-skill)** - Claude Code skill for parallel code reviews with multiple AI models
+- 🔍 **[council](https://github.com/ktaletsk/council)** - Claude Code skill for parallel code reviews with multiple AI models
+- 🐍 **[snakehug](https://github.com/ktaletsk/snakehug)** - Automatic conda/mamba/pixi environment activation for Claude Code
 - 🧩 **[extension-template-cursor](https://github.com/orbrx/extension-template-cursor)** - Copier template for JupyterLab extensions with Cursor rules
 
 ## OSS Contributions
@@ -47,13 +50,13 @@ Contributing to the Jupyter ecosystem and beyond:
 | [voila-dashboards/voila](https://github.com/voila-dashboards/voila) | 5.9k⭐ | Contributor |
 | [jupytercon2025-developingextensions](https://github.com/jupytercon/jupytercon2025-developingextensions) | 4⭐ | Co-author |
 
-## Latest Blog Posts
+## Selected Blog Posts
 
-- 🗣️ **[Adding Voice to Claude Code (with Audio Ducking)](https://taletskiy.com/blogs/claude-code-tts/)** - TTS that automatically lowers your music when it speaks
-- 🤖 **[Which local models actually work with Claude Code?](https://taletskiy.com/blogs/ollama-claude-code/)** - Testing 18 local models for agentic tasks on a 48GB MacBook Pro
-- 📊 **[The JupyterLab Extension Ecosystem at PyData Boston 2025](https://taletskiy.com/blogs/pydata-boston-25/)** - Analyzing trends from PyPI + GitHub data
-- 🏢 **[Jupyter Open Studio Day SF 2025](https://taletskiy.com/blogs/jupytrer-open-studio-day/)** - Collaborating on Jupyter projects at Bloomberg
-- 🪐 **[JupyterCon 2025 Reflections](https://taletskiy.com/blogs/jupytercon-25/)** - Tutorial workshop, satellites talk, and community highlights
+- 🗣️ **[Adding Voice to Claude Code (with Audio Ducking)](https://taletskiy.com/blogs/claude-code-tts/?utm_source=github&utm_medium=readme&utm_campaign=profile)** - TTS that automatically lowers your music when it speaks
+- 🤖 **[Which local models actually work with Claude Code?](https://taletskiy.com/blogs/ollama-claude-code/?utm_source=github&utm_medium=readme&utm_campaign=profile)** - Testing 18 local models for agentic tasks on a 48GB MacBook Pro
+- 📊 **[The JupyterLab Extension Ecosystem at PyData Boston 2025](https://taletskiy.com/blogs/pydata-boston-25/?utm_source=github&utm_medium=readme&utm_campaign=profile)** - Analyzing trends from PyPI + GitHub data
+- 🏢 **[Jupyter Open Studio Day SF 2025](https://taletskiy.com/blogs/jupytrer-open-studio-day/?utm_source=github&utm_medium=readme&utm_campaign=profile)** - Collaborating on Jupyter projects at Bloomberg
+- 🪐 **[JupyterCon 2025 Reflections](https://taletskiy.com/blogs/jupytercon-25/?utm_source=github&utm_medium=readme&utm_campaign=profile)** - Tutorial workshop, satellites talk, and community highlights
 
 ## Conference Talks
 
@@ -63,21 +66,21 @@ Contributing to the Jupyter ecosystem and beyond:
       <b>PyData Boston 2025</b><br/>
       <i>JupyterLab Extension Ecosystem</i><br/>
       <a href="https://www.youtube.com/watch?v=OWt3Yzhrs1E">
-        <img src="https://img.youtube.com/vi/OWt3Yzhrs1E/0.jpg" width="280"/>
+        <img src="https://img.youtube.com/vi/OWt3Yzhrs1E/0.jpg" width="280" alt="PyData Boston 2025 – JupyterLab Extension Ecosystem"/>
       </a>
     </td>
     <td align="center">
       <b>JupyterCon 2025</b><br/>
       <i>JupyterHub Satellites</i><br/>
       <a href="https://www.youtube.com/watch?v=MvZ-UUpqYMw">
-        <img src="https://img.youtube.com/vi/MvZ-UUpqYMw/0.jpg" width="280"/>
+        <img src="https://img.youtube.com/vi/MvZ-UUpqYMw/0.jpg" width="280" alt="JupyterCon 2025 – JupyterHub Satellites"/>
       </a>
     </td>
     <td align="center">
       <b>JupyterCon 2025 Tutorial</b><br/>
       <i>Extension Development with AI</i><br/>
       <a href="https://www.youtube.com/watch?v=z-KZ6CjZjbM">
-        <img src="https://img.youtube.com/vi/z-KZ6CjZjbM/0.jpg" width="280"/>
+        <img src="https://img.youtube.com/vi/z-KZ6CjZjbM/0.jpg" width="280" alt="JupyterCon 2025 Tutorial – Extension Development with AI"/>
       </a>
     </td>
   </tr>
@@ -85,8 +88,8 @@ Contributing to the Jupyter ecosystem and beyond:
 
 ## Connect
 
-[![My Blog](https://img.shields.io/badge/-My_Blog-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://taletskiy.com)
-[![LinkedIn](https://img.shields.io/badge/-Konstantin_Taletskiy-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taletskiy)
+[![My Blog](https://img.shields.io/badge/-My_Blog-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://taletskiy.com?utm_source=github&utm_medium=readme&utm_campaign=profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taletskiy)
 [![Bluesky](https://img.shields.io/badge/-ktaletsk-0085FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/ktaletsk.bsky.social)
 [![Mastodon](https://img.shields.io/badge/-@ktaletsk-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@ktaletsk)
 [![Twitter](https://img.shields.io/badge/-@orangebrx-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/orangebrx)
@@ -94,7 +97,7 @@ Contributing to the Jupyter ecosystem and beyond:
 
 ---
 
-### Philosophy
+## Philosophy
 
 > "From Jupyter user to Jupyter developer" – I went from using notebooks in grad school to building the tools that millions of data scientists rely on. Personal projects and open source contributions are the most powerful signals you can send to hiring managers.
 
